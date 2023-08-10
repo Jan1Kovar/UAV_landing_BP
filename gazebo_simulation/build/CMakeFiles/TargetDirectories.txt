@@ -1,0 +1,3 @@
+/home/spravce/gazebo_simulation/build/CMakeFiles/rebuild_cache.dir
+/home/spravce/gazebo_simulation/build/CMakeFiles/edit_cache.dir
+/home/spravce/gazebo_simulation/build/CMakeFiles/gazebo_droneport_plugin.dir
