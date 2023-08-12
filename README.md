@@ -1,6 +1,9 @@
 # UAV_landing_BP
 Veškerý kód použitý k autonomnímu přistání drona na dronportu v Gazebo simulaci.
 
+rozdělení jednotlivých misí*-------------------------------------------
+
+spuštění příkazů v novém terminálu-------
 
 
 Qgroundcontrol před spuštěním simulace
