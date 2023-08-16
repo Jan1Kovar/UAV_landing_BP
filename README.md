@@ -3,7 +3,7 @@ Veškerý kód použitý k autonomnímu přistání drona na dronportu v Gazebo 
 
 rozdělení jednotlivých misí*-------------------------------------------
 
-spuštění příkazů v novém terminálu-------
+
 
 
 Qgroundcontrol před spuštěním simulace
@@ -32,6 +32,10 @@ Zahájení mise nový terminál
 cd gazebo_simulation/scripts/aruco_landing 
 
 python3 Aruco_test.py
+
+
+Lepší proces měření, který nebyl využit při měření v BP. Vznikl z kombinované metody.
+python3 Aruco_test_2.py
 
 *-------------------------------------------Kamera detection
 -------
