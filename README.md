@@ -35,6 +35,8 @@ python3 Aruco_test.py
 
 
 Lepší proces měření, který nebyl využit při měření v BP. Vznikl z kombinované metody.
+
+
 python3 Aruco_test_2.py
 
 *-------------------------------------------Kamera detection
