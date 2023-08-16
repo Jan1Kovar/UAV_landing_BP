@@ -14,6 +14,7 @@ přesun do složky se souborem
 
 *-------------------------------------------Aruco test
 
+
 Načtení simulace nový terminál
 -------
 cd gazebo_simulation/run
