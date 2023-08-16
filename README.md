@@ -13,7 +13,7 @@ přesun do složky se souborem
 ./QGroundControl.AppImage
 
 *-------------------------------------------Aruco test
-
+-------
 
 Načtení simulace nový terminál
 -------
@@ -34,6 +34,8 @@ cd gazebo_simulation/scripts/aruco_landing
 python3 Aruco_test.py
 
 *-------------------------------------------Kamera detection
+-------
+
 Načtení simulace nový terminál
 -------
 cd gazebo_simulation/run
@@ -53,6 +55,8 @@ cd gazebo_simulation/scripts/aruco_landing
 python3 Kamera.py
 
 *-------------------------------------------Kombinace
+-------
+
 Načtení simulace nový terminál
 -------
 cd gazebo_simulation/run
