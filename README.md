@@ -13,6 +13,7 @@ přesun do složky se souborem
 ./QGroundControl.AppImage
 
 *-------------------------------------------Aruco test
+
 Načtení simulace nový terminál
 -------
 cd gazebo_simulation/run
